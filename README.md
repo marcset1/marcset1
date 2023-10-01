@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marcset1
 - 👀 I’m interested in probiding algorithmic solution to problems (any)
-- 🌱 I’m currently learning some languages (C++, JAVA, PYTHON, JS, GO, PHP) and paradigms (POO)
+- 🌱 I’m currently learning some languages (C++, JAVA, PYTHON, JS, GO, PHP) and paradigms (POO, MVC, UBD)
 - 💞️ I’m looking to collaborate on making better world free and 'épanouie'
 - 📫 How to reach me ... dvisalla2@gmail.com
 
